@@ -973,5 +973,16 @@
   "friendlist.friendshipstate.accepted": "Frnd rqst aceptd. U r bth frnds.",
   "friendlist.friendshipstate.sentrequest": "Frnd rqst snt. Wtng fr rspns.",
   "friendlist.friendshipstate.receivedrequest": "{0} hs snt u a frnd rqst. If u acpt it psbl fr u to invt each othr to mltplayr gms.",
-  "friendlist.friendshipstate.rejected": "Frnd rqst rjctd."
+  "friendlist.friendshipstate.rejected": "Frnd rqst rjctd.",
+
+  "gamemode.custom.description.button": "St up yr own gm n play hwvr u lk",
+  "settings.hideadvanced": "Hd Advnced Setngs",
+  "settings.showadvanced": "Advnced Setngs",
+  "gamemode.custom.caps": "CREATIVE",
+  "settings.scale": "UI Scl",
+  "settings.scale.auto": "Auto",
+  "settings.scale.small": "Sml",
+  "settings.scale.medium": "Mdm",
+  "settings.scale.large": "Lrge",
+  "settings.scale.verylarge": "Vry Lrge"
 }
